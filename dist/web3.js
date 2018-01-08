@@ -54732,4 +54732,3 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
       module.exports = Web3;
     }, { "../package.json": 393, "web3-bzz": 180, "web3-core": 200, "web3-eth": 369, "web3-eth-personal": 366, "web3-net": 370, "web3-shh": 378, "web3-utils": 390 }] }, {}, ["Web3"])("Web3");
 });
-//# sourceMappingURL=web3.js.map
